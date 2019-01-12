@@ -1,0 +1,8 @@
+sudo -i
+yum install git-core
+git --version
+git config --global user.name asawari
+git config --global user.email asawarid24@gmail.com
+git config --list
+ git config --help
+git status
